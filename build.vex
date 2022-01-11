@@ -43,7 +43,7 @@
       "id": "polyvinyl/core",
       "links": ["rudiments/core"],
       "sources": ["src/core"],
-      "version": "0.2.0",
+      "version": "0.3.0",
       "docs": ["doc"]
     }
   ]
